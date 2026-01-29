@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState, useRef } from 'react';
 import { gsap } from 'gsap';
-import { Swatches, Target, ShieldCheck } from 'lucide-react';
+import { Target, ShieldCheck } from 'lucide-react';
 
 const DUAL_SCORE_TOTAL = 4;
 
